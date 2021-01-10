@@ -1,1 +1,0 @@
-nmap -v -n -Pn -p T:445 -T5 --script smb.nse -iR 0 
